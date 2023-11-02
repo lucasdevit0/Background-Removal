@@ -2,15 +2,12 @@
 
 This project is an end-to-end image background removal web application. 
 
-<br>
 
 # Development Pipeline
 
 The development followed the pipeline below, simulating an actual client deliverable. Requirements, planning and deliverable documents can be found [here.](https://devitolucas.notion.site/Background-removal-app-72496145b29e40559d9bb9d2491e230e?pvs=4) Development inspired by [computervisioneng](https://github.com/computervisioneng/image-background-removal-api-end-to-end-pipeline)
 
  ![Banner](img/pipeline.jpg)
-
- <br>
 
 
 # Web Application
@@ -21,7 +18,6 @@ Deployed with Streamlit, the web app lets users upload image files and download 
 
 ![Banner](img/streamlit_app.png)
 
-<br>
 
 # Background Removal
 
