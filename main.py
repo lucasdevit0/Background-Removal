@@ -44,7 +44,7 @@ st.write('Credits to [rembg](https://github.com/danielgatis/rembg)')
 st.write('Author: Lucas de Vito, connect with me on [Linkedin](https://www.linkedin.com/in/devitolucas/)')
     
 if upload is None:
-    remove_bg('img/elon.jpg')
+    remove_bg('img/tucan.jpg')
 else:
     if upload.size > MAX_FILE_SIZE:
         st.error('Uploaded file is too large! Select file < 5MB.')
