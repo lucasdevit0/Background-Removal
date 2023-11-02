@@ -39,7 +39,7 @@ def remove_bg(upload):
 
 st.write('\n')
 st.write('# Info:')
-st.write('All code is open source and can be found at this [Github repository](https://github.com/danielgatis/rembg)')
+st.write('All code is open source and can be found at this [Github repository](https://github.com/lucasdevit0/Background-Removal)')
 st.write('Credits to [rembg](https://github.com/danielgatis/rembg)')
 st.write('Author: Lucas de Vito, connect with me on [Linkedin](https://www.linkedin.com/in/devitolucas/)')
     
